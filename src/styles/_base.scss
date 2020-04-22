@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    box-sizing: border-box;
+    max-width: 1024px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #EFE9E7;
+    text-align: center;
+    overflow-x: hidden;
+    width: 100vw;
+}
+ul {
+    list-style-type: none;
+}
+

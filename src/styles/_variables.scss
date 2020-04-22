@@ -1,0 +1,13 @@
+$primary:#222222;
+$color-brown: #3D1101;
+
+.color-white{
+    color: white;
+    &-primary {
+        color: #EFE9E7;
+    }
+}
+
+.color-brown {
+    color: #3D1101;
+}
